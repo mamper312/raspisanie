@@ -1,1 +1,1 @@
-# raspisanie
+permalink:/index.html
